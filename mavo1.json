@@ -6,5 +6,10 @@
 		">Select your preferred payment method and we'll text you on <strong>0410 XX XX78</strong> a few days before your payment is due. Just reply 'Pay' and we'll deduct your payment on the due date.</p>"
 	],
 	"account-attribute": [],
-	"smsPay-notsetup-CTA": 0
+	"smsPay-notsetup-CTA": 0,
+	"section-intro-netsetup-hd": "<p><strong>Paying your bills has never been easier</strong></p>",
+	"section-intro-netsetup-body": "<p>Select your preferred payment method and we'll text you on <strong>0400 777 333</strong> a few days before your payment is due. Just reply <strong>'Pay'</strong> and we'll deduct your payment on the due date.</p>",
+	"section-intro-netsetup-updateNo": "Chat now to update your mobile number.",
+	"section-intro-netsetup-details": "\n                    SMS Pay will be setup for your Electricty and Gas accounts.<br>\n                    Payment will be never processed without you replying \"Pay\".<br>\n                    Your bills will still be delivered as per your current arrangement.\n               ",
+	"wallet-disclaimer": "Setting up SMS Pay with your bank account or credit card will save your payment method to My Wallet. Easy to manage, fast to find."
 }
