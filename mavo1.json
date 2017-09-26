@@ -5,7 +5,23 @@
 		"<p><span style=\"text-decoration: underline;\">Chat now</span> to update your mobile number.</p>",
 		">Select your preferred payment method and we'll text you on <strong>0410 XX XX78</strong> a few days before your payment is due. Just reply 'Pay' and we'll deduct your payment on the due date.</p>"
 	],
-	"account-attribute": [],
+	"account-attribute": [
+		{
+			"att-label": "Payment method",
+			"att-action": {},
+			"att-description": "Bank Account xxxx1234"
+		},
+		{
+			"att-label": "Mobile number",
+			"att-action": {
+				"action-url": "#"
+			},
+			"att-description": "We'll send SMS Pay text’s to your mobile number 040 333 777."
+		},
+		{
+			"att-action": {}
+		}
+	],
 	"smsPay-notsetup-CTA": 0,
 	"section-intro-netsetup-hd": "<p><strong>Paying your bills has never been easier</strong></p>",
 	"section-intro-netsetup-body": "<p>Select your preferred payment method and we'll text you on <strong>0400 777 333</strong> a few days before your payment is due. Just reply <strong>'Pay'</strong> and we'll deduct your payment on the due date.</p>",
