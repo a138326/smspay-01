@@ -33,7 +33,7 @@
 		"e you sure you’d like to cancel SMS Pay?"
 	],
 	"cancel-SMSpa-setupAgain": [
-		"If you want to use SMS Pay in the future, it’s easy to set it up again. ",
+		"If you want to use SMS Pay in the future, it’s easy to set it up again.",
 		"If you want to use SMS Pay in the future, it’s easy to set it up again.",
 		" you want to use SMS Pay in the future, it’s easy to set it up again. "
 	],
@@ -43,7 +43,7 @@
 		"ur credit card will still be stored in My Wallet."
 	],
 	"cancel-SMSpa-pending": [
-		"To confirm any ",
+		"If you have any pending payments...",
 		"SMS Pay pending message",
 		"S pending message. If you have any pending payments 4pm etc."
 	],
@@ -53,7 +53,7 @@
 		"e you sure you’d like to cancel Direct Debit?"
 	],
 	"cancel-DDpa-setupAgain": [
-		"If you want to use Direct Debit in the future, it’s easy to set it up again.",
+		"If you want to use Direct Debit Pay in the future, it’s easy to set it up again.",
 		"If you want to use Direct Debit Pay in the future, it’s easy to set it up again.",
 		" you want to use Direct Debit Pay in the future, it’s easy to set it up again."
 	],
@@ -63,7 +63,7 @@
 		"ur credit card will still be stored in My Wallet."
 	],
 	"cancel-DDpa-pending": [
-		"If you have an amount due you'll need to use another payment method.",
+		"If you have an amount due you'll need to use another payment method",
 		"If you have an amount due you'll need to use another payment method",
 		" you have an amount due you'll need to use another payment method."
 	],
@@ -92,6 +92,9 @@
 	"cancel-SMSpa-linked-Acc": "Account no: 7021 129 726",
 	"cancel-SMSpa-linked-address": "123 Sample St Melbourne VIC 3000",
 	"cancel-pa-wallet": [
+		"Your credit card will still be stored in My Wallet.",
+		"Your credit card will still be stored in My Wallet.",
+		"Your credit card will still be stored in My Wallet.",
 		"Your credit card will still be stored in My Wallet."
 	],
 	"cancel-SMSpa-linked-AccTo": "SMS Pay is linked to account:"
