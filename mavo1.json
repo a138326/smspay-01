@@ -43,7 +43,7 @@
 		"ur credit card will still be stored in My Wallet."
 	],
 	"cancel-SMSpa-pending": [
-		"If you have any pending payments...",
+		"Any authorised payments may still be processed processed please call or chat to confirm.",
 		"SMS Pay pending message",
 		"S pending message. If you have any pending payments 4pm etc."
 	],
@@ -97,5 +97,13 @@
 		"Your credit card will still be stored in My Wallet.",
 		"Your credit card will still be stored in My Wallet."
 	],
-	"cancel-SMSpa-linked-AccTo": "SMS Pay is linked to account:"
+	"cancel-SMSpa-linked-AccTo": [
+		"SMS Pay is linked to account:",
+		"This Direct Debit is linked to account:",
+		"S Pay is linked to account:"
+	],
+	"cancel-pa-linked-AccNo": [],
+	"cancel-pa-linked-address": [
+		"123 Sample St Melbourne VIC 3000"
+	]
 }
