@@ -1,9 +1,5 @@
 {
-	"section-hd": [
-		"SMS Pay",
-		"Cancel SMS Pay",
-		"S Pay"
-	],
+	"section-hd": "SMS Pay",
 	"section-intro-netsetup": [
 		"<p>Select your preferred payment method and we'll text you on <strong>0400 777 333</strong> a few days before your payment is due. Just reply 'Pay' and we'll deduct your payment on the due date.</p>",
 		"<p><span style=\"text-decoration: underline;\">Chat now</span> to update your mobile number.</p>",
@@ -22,7 +18,7 @@
 		},
 		{
 			"att-label": "Upcoming bills",
-			"att-description": "[icon] Gas $275.82 – due Thursday 15 Sep 2017."
+			"att-description": "[Icon ] Gas $275.82 – due Thursday 15 Sep 2017."
 		}
 	],
 	"smsPay-notsetup-CTA": 0,
