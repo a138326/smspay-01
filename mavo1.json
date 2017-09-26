@@ -43,7 +43,7 @@
 		"ur credit card will still be stored in My Wallet."
 	],
 	"cancel-SMSpa-pending": [
-		"Any authorised payments may still be processed processed please call or chat to confirm.",
+		"Any authorised payments may still be processed please contact us to confirm.",
 		"SMS Pay pending message",
 		"S pending message. If you have any pending payments 4pm etc."
 	],
@@ -104,6 +104,7 @@
 	],
 	"cancel-pa-linked-AccNo": [],
 	"cancel-pa-linked-address": [
+		"123 Sample St Melbourne VIC 3000",
 		"123 Sample St Melbourne VIC 3000"
 	]
 }
