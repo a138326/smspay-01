@@ -8,18 +8,17 @@
 	"account-attribute": [
 		{
 			"att-label": "Payment method",
-			"att-action": {},
+			"att-action": "Change",
 			"att-description": "Bank Account xxxx1234"
 		},
 		{
 			"att-label": "Mobile number",
-			"att-action": {
-				"action-url": "#"
-			},
+			"att-action": "Chat to update",
 			"att-description": "We'll send SMS Pay text’s to your mobile number 040 333 777."
 		},
 		{
-			"att-action": {}
+			"att-label": "Upcoming bills",
+			"att-description": "Your Gas account balance is $275.82 and due Thursday 15 Sep 2017."
 		}
 	],
 	"smsPay-notsetup-CTA": 0,
