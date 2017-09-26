@@ -31,7 +31,7 @@
 	"cancel-SMSpa-setupAgain": "If you want to use SMS Pay in the future, it’s easy to set it up again. ",
 	"cancel-SMSpa-wallet": "Your credit card will still be stored in My Wallet.",
 	"cancel-SMSpa-pending": "SMS Pay pending message",
-	"cancel-DDpa-heading": "Are you sure you’d like to cancel your Direct Debit?",
+	"cancel-DDpa-heading": "Are you sure you’d like to cancel Direct Debit?",
 	"cancel-DDpa-setupAgain": "If you want to use Direct Debit Pay in the future, it’s easy to set it up again.",
 	"cancel-DDpa-wallet": "Your credit card will still be stored in My Wallet.",
 	"cancel-DDpa-pending": "If you have an amount due you'll need to use another payment method"
