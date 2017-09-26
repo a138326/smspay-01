@@ -27,12 +27,68 @@
 	"section-intro-netsetup-updateNo": "<p><span style=\"text-decoration: underline;\">Chat now</span> to update your mobile number.</p>",
 	"section-intro-netsetup-details": "<p><strong>[icon]</strong> SMS Pay will be setup for your Electricty and Gas accounts.</p>\n<p>&nbsp;</p>\n<p><strong>[icon]</strong> Payment will be never processed without you replying \"Pay\".</p>\n<p>&nbsp;</p>\n<p><strong>[icon]</strong> Your bills will still be delivered as per your current arrangement.</p>",
 	"wallet-disclaimer": "<strong>[icon]</strong> Setting up SMS Pay with your bank account or credit card will save your payment method to My Wallet. Easy to manage, fast to find.",
-	"cancel-SMSpa-heading": "Are you sure you’d like to cancel SMS Pay?",
-	"cancel-SMSpa-setupAgain": "If you want to use SMS Pay in the future, it’s easy to set it up again. ",
-	"cancel-SMSpa-wallet": "Your credit card will still be stored in My Wallet.",
-	"cancel-SMSpa-pending": "SMS pending message. If you have any pending payments 4pm etc.",
-	"cancel-DDpa-heading": "Are you sure you’d like to cancel Direct Debit?",
-	"cancel-DDpa-setupAgain": "If you want to use Direct Debit Pay in the future, it’s easy to set it up again.",
-	"cancel-DDpa-wallet": "Your credit card will still be stored in My Wallet.",
-	"cancel-DDpa-pending": "If you have an amount due you'll need to use another payment method."
+	"cancel-SMSpa-heading": [
+		"Are you sure you’d like to cancel SMS Pay?",
+		"Are you sure you’d like to cancel SMS Pay?",
+		"e you sure you’d like to cancel SMS Pay?"
+	],
+	"cancel-SMSpa-setupAgain": [
+		"If you want to use SMS Pay in the future, it’s easy to set it up again. ",
+		"If you want to use SMS Pay in the future, it’s easy to set it up again.",
+		" you want to use SMS Pay in the future, it’s easy to set it up again. "
+	],
+	"cancel-SMSpa-wallet": [
+		"Your credit card will still be stored in My Wallet.",
+		"Your credit card will still be stored in My Wallet.",
+		"ur credit card will still be stored in My Wallet."
+	],
+	"cancel-SMSpa-pending": [
+		"SMS pending message. If you have any pending payments 4pm etc.",
+		"SMS Pay pending message",
+		"S pending message. If you have any pending payments 4pm etc."
+	],
+	"cancel-DDpa-heading": [
+		"Are you sure you’d like to cancel Direct Debit?",
+		"Are you sure you’d like to cancel Direct Debit?",
+		"e you sure you’d like to cancel Direct Debit?"
+	],
+	"cancel-DDpa-setupAgain": [
+		"If you want to use Direct Debit Pay in the future, it’s easy to set it up again.",
+		"If you want to use Direct Debit Pay in the future, it’s easy to set it up again.",
+		" you want to use Direct Debit Pay in the future, it’s easy to set it up again."
+	],
+	"cancel-DDpa-wallet": [
+		"Your credit card will still be stored in My Wallet.",
+		"Your credit card will still be stored in My Wallet.",
+		"ur credit card will still be stored in My Wallet."
+	],
+	"cancel-DDpa-pending": [
+		"If you have an amount due you'll need to use another payment method.",
+		"If you have an amount due you'll need to use another payment method",
+		" you have an amount due you'll need to use another payment method."
+	],
+	"cancel-SMSpa-descriptionHD": [
+		"Cancel DD/SMS arrangement",
+		"Cancel DD/SMS arrangement"
+	],
+	"cancel-SMSpa-descriptionBody": "Single contract account user clicks cancel DD/SMS",
+	"cancel-SMSpa-confirm": [
+		0,
+		0
+	],
+	"cancel-SMSpa-keep": [
+		0,
+		0
+	],
+	"cancel-DDpa-confirm": [
+		0,
+		0
+	],
+	"cancel-DDpa-keep": [
+		0,
+		0
+	],
+	"cancel-SMSpa-ma-descriptionBody": "Multiple contract account user clicks cancel DD/SMS",
+	"cancel-SMSpa-linked-Acc": "Account no: 7021 129 726",
+	"cancel-SMSpa-linked-address": "123 Sample St Melbourne VIC 3000"
 }
