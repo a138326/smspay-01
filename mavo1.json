@@ -26,5 +26,13 @@
 	"section-intro-netsetup-body": "<p>Select your preferred payment method and we'll text you on <strong>0400 777 333</strong> a few days before your payment is due. Just reply <strong>'Pay'</strong> and we'll deduct your payment on the due date.</p>",
 	"section-intro-netsetup-updateNo": "<p><span style=\"text-decoration: underline;\">Chat now</span> to update your mobile number.</p>",
 	"section-intro-netsetup-details": "<p><strong>[icon]</strong> SMS Pay will be setup for your Electricty and Gas accounts.</p>\n<p>&nbsp;</p>\n<p><strong>[icon]</strong> Payment will be never processed without you replying \"Pay\".</p>\n<p>&nbsp;</p>\n<p><strong>[icon]</strong> Your bills will still be delivered as per your current arrangement.</p>",
-	"wallet-disclaimer": "<strong>[icon]</strong> Setting up SMS Pay with your bank account or credit card will save your payment method to My Wallet. Easy to manage, fast to find."
+	"wallet-disclaimer": "<strong>[icon]</strong> Setting up SMS Pay with your bank account or credit card will save your payment method to My Wallet. Easy to manage, fast to find.",
+	"cancel-SMSpa-heading": "Are you sure you’d like to cancel SMS Pay?",
+	"cancel-SMSpa-setupAgain": "If you want to use SMS Pay in the future, it’s easy to set it up again. ",
+	"cancel-SMSpa-wallet": "Your credit card will still be stored in My Wallet.",
+	"cancel-SMSpa-pending": "SMS Pay pending message",
+	"cancel-DDpa-heading": "Are you sure you’d like to cancel Direct Debit?",
+	"cancel-DDpa-setupAgain": "If you want to use Direct Debit Pay in the future, it’s easy to set it up again.",
+	"cancel-DDpa-wallet": "Your credit card will still be stored in My Wallet.",
+	"cancel-DDpa-pending": "If you have an amount due you'll need to use another payment method"
 }
