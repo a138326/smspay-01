@@ -43,7 +43,7 @@
 		"ur credit card will still be stored in My Wallet."
 	],
 	"cancel-SMSpa-pending": [
-		"Any authorised payments may still be processed, please contact us to confirm.",
+		"If you've authorised any payments with SMS Pay in the last 24 hours, please call or chat with us to confirm if your payment will be processed.",
 		"Any authorised payments may still be processed, please contact us to confirm.",
 		"S pending message. If you have any pending payments 4pm etc."
 	],
